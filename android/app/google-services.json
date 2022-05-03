@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "144192378171",
+    "project_id": "store-image-for-teacher",
+    "storage_bucket": "store-image-for-teacher.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144192378171:android:80b21ed56e4cdeafa6131e",
+        "android_client_info": {
+          "package_name": "com.example.hw_grid_view_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144192378171-po99f1itgjohus7s1f5m33m8q0k6o21q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAtqQVfX1yFUkZ-p7-_Ycdz1geLEI1zRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144192378171-po99f1itgjohus7s1f5m33m8q0k6o21q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
